@@ -7,7 +7,7 @@ function Hero() {
     <section className="hero-main     ">
       <div className=" container-wrapper pt-[25%] sm:pt-[1%]  overflow-hidden relative">
         <div>
-          <h2 className=" text-center text-white">Welcome To</h2>
+          <h2 className=" text-center text-white font-bold">Welcome To</h2>
           <img
             src="images/hero-txt.png"
             alt=""
