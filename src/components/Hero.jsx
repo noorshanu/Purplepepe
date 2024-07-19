@@ -27,7 +27,7 @@ function Hero() {
 
         <div className=" relative sm:absolute top-[30%] left-[5%] "  data-aos="zoom-in-right"
           data-aos-duration="1500">
-          <div className=" flex flex-col justify-center items-center gap-4 w-full max-w-full sm:max-w-[250px] mx-auto py-4">
+          <div className=" flex flex-row sm:flex-col justify-center items-center gap-4 w-full max-w-[200px] sm:max-w-[250px] mx-auto py-4">
             <div className=" h-8 w-[1px] bg-white hidden sm:block"></div>
             <a
               href="https://www.dextools.io/app/en/"

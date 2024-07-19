@@ -11,7 +11,7 @@ function AboutUs() {
           <div className=" w-full sm:w-1/2 relative "  data-aos="zoom-in-right"
           data-aos-duration="1500">
             <img src="/images/lambo.png" alt="" />
-            <img src="images/logo.png" alt="" className=" absolute bottom-4 floating h-[200px] right-0" />
+            <img src="images/logo.png" alt="" className=" absolute bottom-4 floating h-[100px] sm:h-[200px] right-0" />
           </div>
 
           <div className=" w-full sm:w-1/2"  data-aos="zoom-in-left"
