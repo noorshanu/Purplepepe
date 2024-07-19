@@ -8,11 +8,14 @@ function AboutUs() {
     >
       <div className=" container-wrapper pt-[5%]">
         <div className="relative flex justify-between flex-col sm:flex-row items-center gap-4">
-          <div className=" w-full sm:w-1/2 relative ">
+          <div className=" w-full sm:w-1/2 relative "  data-aos="zoom-in-right"
+          data-aos-duration="1500">
             <img src="/images/lambo.png" alt="" />
+            <img src="images/logo.png" alt="" className=" absolute bottom-4 floating h-[200px] right-0" />
           </div>
 
-          <div className=" w-full sm:w-1/2">
+          <div className=" w-full sm:w-1/2"  data-aos="zoom-in-left"
+          data-aos-duration="1500">
             <h1 className=" bg-black border-purple-700 border-2 rounded-xl p-2 text-4xl font-bold font-dream text-white text-center mb-4">
               About us
             </h1>
