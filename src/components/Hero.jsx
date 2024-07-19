@@ -37,14 +37,14 @@ function Hero() {
               <img src="/images/dex.png" alt="" className=" h-[30px] w-auto" />
             </a>
             <a
-              href="https://www.dextools.io/app/en/"
+              href="https://t.me/PurplePepe_sol"
               className=" mx-auto font-dream box-s2  text-3xl text-white bg-[#000000] hover:bg-[#1a4093] rounded-full p-1 border-2 border-[#8d4df9]  hover:text-[#fff]  text-center font-bold uppercase"
             >
               {" "}
               <BsTelegram />{" "}
             </a>
             <a
-              href="https://www.dextools.io/app/en/"
+              href="https://x.com/PurplePepe_Sol"
               className=" mx-auto font-dream box-s2  text-lg text-white bg-[#000000] hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#8d4df9]  hover:text-[#fff] text-center font-bold uppercase"
             >
               {" "}

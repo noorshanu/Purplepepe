@@ -56,7 +56,7 @@ const Accordion = () => {
         />
          <AccordionItem
           title="What is the future of $PUPE?"
-          content="Season 1 of Baby's adventures will be released every week. With multiple fun and new things being worked "
+          content="Season 1 of $PUPE's adventures will be released every week. With multiple fun and new things being worked "
         />
       </div>
     </div>
