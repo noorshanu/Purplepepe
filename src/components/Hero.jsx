@@ -30,7 +30,7 @@ function Hero() {
           <div className=" flex flex-row sm:flex-col justify-center items-center gap-4 w-full max-w-[200px] sm:max-w-[250px] mx-auto py-4">
             <div className=" h-8 w-[1px] bg-white hidden sm:block"></div>
             <a
-              href="https://www.dextools.io/app/en/"
+              href="https://www.dextools.io/app/en/solana/pair-explorer/BmJzRiQyEwXB6kPADAc3xUGn68Yu5wkNSmZbjspjAvnS?t=1721393113503"
               className=" mx-auto font-dream box-s2  text-lg text-white bg-[#000000] hover:bg-[#1a4093] rounded-full p-1 px-2 border-2 border-[#8d4df9]  hover:text-[#fff] text-center font-bold uppercase"
             >
               {" "}
