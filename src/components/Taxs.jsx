@@ -11,7 +11,7 @@ function Taxs() {
         data-aos-duration="1500"
       />
 
-      <div className=" container-wrapper bg-[#171c22] border-4  border-purple-700 rounded-3xl box-s2 py-4 px-4 relative z-20 flex justify-between gap-4">
+      <div className=" container-wrapper bg-[#171c22] border-4  border-purple-700 rounded-3xl box-s2 py-4 px-4 relative z-20 flex flex-col sm:flex-row justify-between gap-4">
         <a
           href="#"
           className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700 w-full sm:w-[250px]"
@@ -61,7 +61,7 @@ function Taxs() {
         <div>
             <p className=" text-center text-yellow-300 mt-4">$PUPE UTILITY TOKEN - SOLANA CHAIN </p>
 
-            <h1 className=" text-5xl font-bold font-dream text-center text-white py-2">
+            <h1 className=" text-xl sm:text-5xl font-bold font-dream text-center text-white py-2">
             Total Supply 1.000.000.000
             </h1>
             <p className="text-center text-yellow-300 mt-4">

@@ -7,7 +7,7 @@ function AboutUs() {
       id="about"
     >
       <div className=" container-wrapper pt-[5%]">
-        <div className="relative flex justify-between items-center gap-4">
+        <div className="relative flex justify-between flex-col sm:flex-row items-center gap-4">
           <div className=" w-full sm:w-1/2 relative ">
             <img src="/images/lambo.png" alt="" />
           </div>
