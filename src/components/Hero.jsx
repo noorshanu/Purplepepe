@@ -103,9 +103,11 @@ function Hero() {
           </button>
         </div>
 
-
         <p className=" text-center font-medium text-sm sm:text-xl py-2 text-white max-w-full sm:max-w-[750px] mx-auto">
-        Welcome to Purple Pepe. The only true OG Pepe on Solana. Originally created and deployed in July 2023 (check Solscan) now 1 year later we are ready to go live. Purple Pepe was created to Make Solana Great Again
+          Welcome to Purple Pepe. The only true OG Pepe on Solana. Purple Pepe:
+          From Zero to Lambo Hero, making Solana great again - 1000x Profit for
+          all.
+          Driven by unity and strength, the Purple Pepe community aims for financial freedom. With $PUPE leading the way, join the movement.
         </p>
       </div>
     </section>

@@ -14,9 +14,9 @@ const AccordionItem = ({ title, content }) => {
   };
 
   return (
-    <div className="my-2 rounded-xl border-black border-4 h-full">
+    <div className="my-2 rounded-xl border-white border-4 h-full">
       <button
-        className="flex justify-between w-full p-4 text-left text-lg font-medium text-black focus:outline-none"
+        className="flex justify-between w-full p-4 text-left text-lg font-medium text-white focus:outline-none"
         onClick={toggleOpen}
       >
         <span>{title}</span>
@@ -27,7 +27,7 @@ const AccordionItem = ({ title, content }) => {
         style={{ maxHeight: `${height}` }}
         className="overflow-hidden transition-max-height duration-500 ease-in-out"
       >
-        <div className="p-4 text-gray-700 bg-white">
+        <div className="p-4 text-white ">
           {content}
         </div>
       </div>
@@ -44,7 +44,7 @@ const Accordion = () => {
           content="The treasury is basically our 'bank' we will use this for marketing costs, listing on CEX's and burning / giving away to holders."
         />
         <AccordionItem
-          title="Is $baby a good investment?"
+          title="Is $PUPE a good investment?"
           content=" its a fictional character and memecoin with no utility. Please invest at your own risk, and as always. Do you own research."
         />
     
@@ -55,7 +55,7 @@ const Accordion = () => {
           content="YES, LP locked after seeding on Raydium."
         />
          <AccordionItem
-          title="What is the future of $baby?"
+          title="What is the future of $PUPE?"
           content="Season 1 of Baby's adventures will be released every week. With multiple fun and new things being worked "
         />
       </div>

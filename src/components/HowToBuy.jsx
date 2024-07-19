@@ -3,25 +3,25 @@ import Slider from "./Slider";
 
 function HowToBuy() {
   return (
-    <section className="bg-[#0243b9] py-[2%]">
+    <section className="bg-[#0f131c] py-[2%]">
       <div className=" container-wrapper">
         <div className=" flex items-center justify-center gap-4">
           <div
-            className=" bg-white border-4 border-black box-s2 rounded-3xl py-8 px-4 w-1/2 h-full"
+            className=" bg-[#171c22] border-4 border-purple-700 box-s2 rounded-3xl py-8 px-4 w-1/2 h-full"
             data-aos="fade-right"
             data-aos-duration="1500"
           >
-            <h1 className=" text-3xl sm:text-7xl font-bold font-dream py-1 text-center">
+            <h1 className=" text-3xl sm:text-7xl font-bold font-dream py-1 text-center text-white">
               {" "}
               How To BUY
             </h1>
-            <h2 className=" text-2xl sm:text-7xl font-bold font-dream py-2 text-center">
-              $BABY
+            <h2 className=" text-2xl sm:text-7xl font-bold font-dream py-2 text-center text-white">
+              $PUPE
             </h2>
           </div>
 
           <div
-            className="bg-white border-4 border-black box-s2 rounded-3xl p-2 h-full"
+            className="bg-[#171c22] border-4 border-purple-700 box-s2 rounded-3xl p-2 h-full"
             data-aos="fade-left"
             data-aos-duration="1500"
           >
@@ -31,25 +31,25 @@ function HowToBuy() {
 
         <div className=" flex items-center flex-col sm:flex-row justify-center gap-4 mt-2">
           <div
-            className=" bg-white border-4 border-black box-s2 rounded-3xl py-8 px-4 flex flex-col justify-center items-center gap-4"
+            className=" bg-[#171c22] border-4 border-purple-700  box-s2 rounded-3xl py-8 px-4 flex flex-col justify-center items-center gap-4"
             data-aos="fade-right"
             data-aos-duration="1500"
           >
             <img
-              src="images/logo3.png"
+              src="images/logo.png"
               alt=""
               className="h-[220px] img-hov cursor-pointer"
             />
             <a
               href="/"
-              className=" bg-white border-4 box-s2 px-4 py-1 border-black rounded-full text-4xl font-bold font-dream"
+              className=" bg-black border-2  border-purple-700 px-4 py-1 text-white  rounded-full text-2xl font-bold font-dream"
             >
-              Buy $BABY
+              Buy $PUPE
             </a>
           </div>
 
           <div
-            className="bg-white border-4 border-black box-s2 rounded-3xl p-4 w-full sm:w-1/2 "
+            className="bg-[#171c22] border-4 border-purple-700  box-s2 rounded-3xl p-4 w-full sm:w-1/2 "
             data-aos="fade-left"
             data-aos-duration="1500"
           >
