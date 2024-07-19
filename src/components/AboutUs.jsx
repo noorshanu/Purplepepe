@@ -35,7 +35,10 @@ function AboutUs() {
 
 
             <div className=" m-4 mx-auto flex justify-center">
-              <a href="/" className=" mx-auto font-dream  text-base text-white bg-[#000000] hover:bg-[#1a4093] rounded-full py-2 px-6 border-2 border-[#8d4df9]  hover:text-[#fff] text-center font-bold uppercase"> Buy Now</a>
+              <a href="/" className=" mx-auto font-dream  text-base text-white bg-[#000000] hover:bg-[#1a4093]
+              flex items-center gap-2 
+              rounded-full py-2 px-6 border-2 border-[#8d4df9]  hover:text-[#fff] text-center font-bold
+               uppercase"><img src="images/dex.png" alt="" className=" w-auto h-[28px]" />  Buy Now</a>
             </div>
           </div>
           <div>
