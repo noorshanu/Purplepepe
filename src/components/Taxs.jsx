@@ -2,7 +2,7 @@ import React from "react";
 
 function Taxs() {
   return (
-    <section className="bg-[#0f131c] pt-[10%] pb-[8%]  relative ">
+    <section className="bg-[#0f131c] pt-[10%] pb-[8%]  relative "  >
       <img
         src="images/mon.png"
         alt=""
@@ -11,7 +11,10 @@ function Taxs() {
         data-aos-duration="1500"
       />
 
-      <div className=" container-wrapper bg-[#171c22] border-4  border-purple-700 rounded-3xl box-s2 py-4 px-4 relative z-20 flex flex-col sm:flex-row justify-between gap-4">
+      <div
+      data-aos="zoom-in-up"
+    data-aos-duration="1500"
+      className=" container-wrapper bg-[#171c22] border-4  border-purple-700 rounded-3xl box-s2 py-4 px-4 relative z-20 flex flex-col sm:flex-row justify-between gap-4">
         <a
           href="#"
           className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700 w-full sm:w-[250px]"
